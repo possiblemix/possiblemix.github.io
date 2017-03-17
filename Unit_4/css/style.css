@@ -1,28 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Bahiana|Baloo+Bhaina|Crafty+Girls|Fascinate+Inline|Fontdiner+Swanky|Fredericka+the+Great|New+Rocker');
-
 body {
 	background-color: white;
 }
-
 h1 {
 	font-size: 80px;
 	color: #751B35;
 	text-align: center;
 	font-family: 'New Rocker', cursive;
 }
-
 #slogan {
 	font-size: 40px;
 	font-family:'Fontdiner Swanky', cursive;
 	color: #751B35;
-
-
 }
-
 .every {
 	font-family:'Fredericka the Great', cursive;
 	font-size: 20px;
 	color:#751B35;
 	text-align: center;
-
 }
