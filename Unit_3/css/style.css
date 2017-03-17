@@ -1,0 +1,25 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	font-family: zapfino;
+	font-size: 60px;
+	color: #66623A;
+	text-align: center;
+}
+
+#slogan {
+	font-family: zapfino;
+	color: #875D22;
+	font-style: italic;
+
+
+}
+
+.every {
+	font-family: chalkduster;
+	font-size: 30px;
+	color:#2A182B;
+	text-align: center;
+}
