@@ -10,9 +10,10 @@ h1 {
 }
 
 #slogan {
-	font-size: 40px;
+	font-size: 20px;
 	font-family:'Fontdiner Swanky', cursive;
 	color: #751B35;
+	text-align: center;
 }
 .every {
 	font-family:'Fredericka the Great', cursive;
@@ -20,3 +21,32 @@ h1 {
 	color:#751B35;
 	text-align: center;
 }
+
+header {
+    background-color: #FFED74;
+    border: 8px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 8px black solid;
+    padding: 20px;
+}
+
+section
+{
+    background-color: #FFE2B8;
+    border: 8px black solid;
+    padding: 20px;
+    text-align: center;
+}
+ Footer
+ {
+ 	 background-color: #FF957E;
+    border: 8px black solid;
+    padding: 20px;
+    text-align: center;
+
+ }
+   
