@@ -1,0 +1,107 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Mate+SC');
+</style> 
+
+h1 { 
+    font-size: 20px;
+}
+
+
+header {
+    background-color: #A4386E;
+    border: 8px black solid;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Mate SC', serif;
+    font-size: 2em;
+}
+
+
+nav {
+    background-color: #3D2D5F;
+    font-family: 'Mate SC', serif;
+    border: 8px black solid;
+    padding: 10px;
+}
+
+a {
+  background-color: #3D2D5F;
+  color: #0A0809;
+  display: block;
+  text-decoration: none;
+  float: left;
+  padding: 5%;
+  font-size: 2em;
+  width: 5em;
+  height: 1em;
+  text-align: center;
+
+}
+
+a:hover {
+    background-color: #A4386E;
+}
+
+#slogan {
+	font-size: 4em;
+	font-family:'Mate SC', serif;
+	color: #751B35;
+	text-align: center;
+}
+.every {
+	font-family:'Mate SC', serif;
+	font-size: 1.5em;
+	color:#0A0809;
+}
+
+section
+{
+    background-color: #90EE90;
+    border: 8px black solid;
+    padding: 15px;
+    text-align: center;
+}
+
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 8px black solid;
+    padding: 15px;
+}
+
+#left {
+    background-color: #557A2D;
+    border: 1px black solid;
+    padding: 15px;
+    float: left;
+    width: 30em;
+    height: 10em;
+}
+
+#right {
+    background-color: #3B2C82;
+    border: 1px black solid;
+    padding: 15px;
+    float: right;
+    width: 30em;
+    height: 10em;
+}
+
+ Footer {
+ 	 background-color: #DDA0DD;
+    border: 8px black solid;
+    padding: 15px;
+    text-align: center;
+    font-size: .5em;
+ }
+
+
+    .clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+   
